@@ -8,9 +8,9 @@
 
 This guide walks you from zero to your first submitted entry. No prior experience with the site needed.
 
-> **Start here — sign up through my link:** [https://make.fun/r/n6vzqypg](https://make.fun/r/n6vzqypg)
+> **Start here — sign up through my link:** [https://make.fun/r/fcce3xhj](https://make.fun/r/fcce3xhj)
 >
-> Referral code: `n6vzqypg`
+> Referral code: `fcce3xhj`
 
 ## Your first 30 minutes
 
@@ -74,7 +74,7 @@ The score is the number of **verified** human signups your referral link brings 
 
 - **Most bounties are free to enter.** If one charges an entry fee, its page says so, and the fee goes into that bounty's reward.
 - **Prizes are paid in USDC on Solana.** No bank transfer, no gift cards.
-- **Referrals pay separately.** Every account has a referral link. When someone signs up through yours and takes part, you earn 0.25 USDC per signup (for your first 20 signups), 1.00 USDC when a referral first wins a reward, and 10% of what they win for 90 days after they sign up. make.fun pays that on top — the referred person's own reward is untouched. Each referral reward is reviewed for at least a day before you can claim it, and only genuine new accounts that actually take part count.
+- **Referrals pay separately.** Every account has a referral link. When someone signs up through yours and takes part, you earn 10% of what they win for 90 days after they sign up (the per-signup and first-win bonuses are currently off). make.fun pays that on top — the referred person's own reward is untouched. Each referral reward is reviewed for at least a day before you can claim it, and only genuine new accounts that actually take part count.
 
 ## What you need before you start
 
@@ -85,7 +85,7 @@ The score is the number of **verified** human signups your referral link brings 
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/n6vzqypg](https://make.fun/r/n6vzqypg) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/fcce3xhj](https://make.fun/r/fcce3xhj) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free; signing in with a wallet sends no transaction.
 3. Open your profile (avatar, top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from your profile too. Entries come from your GitHub repos; rewards go to your wallet.
@@ -196,7 +196,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. You earn USDC when people sign up through it and take part, plus a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you've earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/n6vzqypg) (code `n6vzqypg`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/fcce3xhj) (code `fcce3xhj`) is a nice way to say thanks.
 
 ## Mistakes that cost people prizes
 
@@ -255,4 +255,4 @@ A new account created between the competition's opening and its deadline, with y
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/n6vzqypg · code `n6vzqypg`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/fcce3xhj · code `fcce3xhj`</sub>
